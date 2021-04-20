@@ -1,0 +1,1 @@
+# opendigitaltwins-dtdl-semantictypes-dotnet
