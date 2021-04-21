@@ -1,0 +1,12 @@
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\bin\Debug\net5.0\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.deps.json
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\bin\Debug\net5.0\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.dll
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\bin\Debug\net5.0\ref\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.dll
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\bin\Debug\net5.0\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.pdb
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\obj\Debug\net5.0\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.csprojAssemblyReference.cache
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\obj\Debug\net5.0\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.GeneratedMSBuildEditorConfig.editorconfig
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\obj\Debug\net5.0\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.AssemblyInfoInputs.cache
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\obj\Debug\net5.0\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.AssemblyInfo.cs
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\obj\Debug\net5.0\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.csproj.CoreCompileInputs.cache
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\obj\Debug\net5.0\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.dll
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\obj\Debug\net5.0\ref\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.dll
+c:\src\opendigitaltwins-dtdl-semantictypes-dotnet\src\obj\Debug\net5.0\Elastacloud.OpenDigitalTwins.Dtdl.SemanticTypes.pdb
